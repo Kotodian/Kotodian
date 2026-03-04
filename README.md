@@ -41,7 +41,6 @@ Next-generation HTTP/3-based proxying protocol implementation
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VPP](https://img.shields.io/badge/VPP-0080FF?style=for-the-badge)
 ![IPsec](https://img.shields.io/badge/IPsec-FF6B6B?style=for-the-badge)
-![QUIC](https://img.shields.io/badge/QUIC-4285F4?style=for-the-badge)
 
 ### 📊 GitHub Stats
 
@@ -57,20 +56,3 @@ Next-generation HTTP/3-based proxying protocol implementation
 </div>
 
 ---
-
-### 📫 Connect with Me
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kotodian&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
-</div>
-
-<div align="center">
-  
-  **💡 "Security is not a product, but a process."**
-  
-</div>
