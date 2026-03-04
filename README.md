@@ -1,0 +1,76 @@
+# Hi there 👋 I'm Kotodian
+
+## 🚀 Network Security Engineer | VPN Protocol Developer
+
+Building high-performance, secure VPN solutions with cutting-edge technologies.
+
+---
+
+### 🔥 Featured Projects
+
+#### 🔧 [VPP-OpenVPN Plugin](https://github.com/Kotodian/vpp-openvpn)
+
+High-performance OpenVPN data plane acceleration using Vector Packet Processing (VPP)
+
+- ⚡ 10x faster than traditional OpenVPN
+- 🎯 Zero-copy packet processing
+- 🔄 Multi-core scalability
+
+#### 🔐 [StrongSwan-GM](https://github.com/Kotodian/strongswan-gm)
+
+IPsec VPN with Chinese National Cryptography Support
+
+- 🇨🇳 SM2/SM3/SM4 algorithms
+- 🛡️ IKEv2 with GM cipher suites
+- ✅ Compliant with Chinese standards
+
+#### 🚀 [MASQUE Protocol](https://github.com/Kotodian/masque)
+
+Next-generation HTTP/3-based proxying protocol implementation
+
+- 🌐 QUIC-based tunneling
+- 🔒 TLS 1.3 encryption
+- 📡 UDP proxying support
+
+---
+
+### 💻 Tech Stack
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VPP](https://img.shields.io/badge/VPP-0080FF?style=for-the-badge)
+![IPsec](https://img.shields.io/badge/IPsec-FF6B6B?style=for-the-badge)
+![QUIC](https://img.shields.io/badge/QUIC-4285F4?style=for-the-badge)
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kotodian&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kotodian&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Kotodian&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophy" />
+</div>
+
+---
+
+### 📫 Connect with Me
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Kotodian&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+</div>
+
+<div align="center">
+  
+  **💡 "Security is not a product, but a process."**
+  
+</div>
