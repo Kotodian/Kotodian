@@ -8,7 +8,7 @@ Building high-performance, secure VPN solutions with cutting-edge technologies.
 
 ### 🔥 Featured Projects
 
-#### 🔧 [VPP-OpenVPN Plugin](https://github.com/Kotodian/vpp-openvpn)
+#### 🔧 [VPP-OpenVPN Plugin](https://github.com/Kotodian/vpp-more)
 
 High-performance OpenVPN data plane acceleration using Vector Packet Processing (VPP)
 
@@ -41,18 +41,5 @@ Next-generation HTTP/3-based proxying protocol implementation
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VPP](https://img.shields.io/badge/VPP-0080FF?style=for-the-badge)
 ![IPsec](https://img.shields.io/badge/IPsec-FF6B6B?style=for-the-badge)
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kotodian&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kotodian&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kotodian&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophy" />
-</div>
 
 ---
