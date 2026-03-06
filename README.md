@@ -24,7 +24,7 @@ IPsec VPN with Chinese National Cryptography Support
 - 🛡️ IKEv2 with GM cipher suites
 - ✅ Compliant with Chinese standards
 
-#### 🚀 [MASQUE Protocol](https://github.com/Kotodian/masque)
+#### 🚀 [MASQUE Protocol](https://github.com/Kotodian/masque-rs)
 
 Next-generation HTTP/3-based proxying protocol implementation
 
