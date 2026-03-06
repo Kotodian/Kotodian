@@ -32,6 +32,10 @@ Next-generation HTTP/3-based proxying protocol implementation
 - 🔒 TLS 1.3 encryption
 - 📡 UDP proxying support
 
+#### 🚀 [TORQUE Protocol](https://github.com/Kotodian/torque)
+
+High performance port-forward implementation based on ebpf
+
 ---
 
 ### 💻 Tech Stack
