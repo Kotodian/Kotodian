@@ -1,49 +1,57 @@
-# Hi there 👋 I'm Kotodian
+<h1 align="center">Hi there, I'm Kotodian</h1>
 
-## 🚀 Network Security Engineer | VPN Protocol Developer
-
-Building high-performance, secure VPN solutions with cutting-edge technologies.
-
----
-
-### 🔥 Featured Projects
-
-#### 🔧 [VPP-OpenVPN Plugin](https://github.com/Kotodian/vpp-more)
-
-High-performance OpenVPN data plane acceleration using Vector Packet Processing (VPP)
-
-- ⚡ 10x faster than traditional OpenVPN
-- 🎯 Zero-copy packet processing
-- 🔄 Multi-core scalability
-
-#### 🔐 [StrongSwan-GM](https://github.com/Kotodian/strongswan-gm)
-
-IPsec VPN with Chinese National Cryptography Support
-
-- 🇨🇳 SM2/SM3/SM4 algorithms
-- 🛡️ IKEv2 with GM cipher suites
-- ✅ Compliant with Chinese standards
-
-#### 🚀 [MASQUE Protocol](https://github.com/Kotodian/masque-rs)
-
-Next-generation HTTP/3-based proxying protocol implementation
-
-- 🌐 QUIC-based tunneling
-- 🔒 TLS 1.3 encryption
-- 📡 UDP proxying support
-
-#### 🚀 [TORQUE Protocol](https://github.com/Kotodian/torque)
-
-High performance port-forward implementation based on ebpf
+<p align="center">
+  <b>Network Security Engineer | VPN Protocol Developer | Desktop App Builder</b>
+</p>
 
 ---
 
-### 💻 Tech Stack
+### Featured Project
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+<table>
+  <tr>
+    <td width="400">
+      <h3><a href="https://github.com/Kotodian/calamity">Calamity</a></h3>
+      <p>A modern macOS proxy client powered by sing-box, built with Tauri 2 + React.</p>
+      <p>
+        <img src="https://img.shields.io/github/v/release/Kotodian/calamity?include_prereleases&style=flat-square&color=e94560" alt="Release" />
+        <img src="https://img.shields.io/github/downloads/Kotodian/calamity/total?style=flat-square&color=16213e" alt="Downloads" />
+      </p>
+      <ul>
+        <li>Rule-based routing, TUN mode, Fake-IP DNS</li>
+        <li>Tailscale integration with MagicDNS</li>
+        <li>Ruleset marketplace & subscription management</li>
+        <li>Light / Dark theme, EN & ZH-CN</li>
+      </ul>
+    </td>
+    <td>
+      <a href="https://github.com/Kotodian/calamity">
+        <img src="https://raw.githubusercontent.com/Kotodian/calamity/main/docs/screenshots/dashboard-dark.png" alt="Calamity Dashboard" width="500" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+### Other Projects
+
+| Project | Description | Stack |
+|:--------|:-----------|:------|
+| [VPP-OpenVPN](https://github.com/Kotodian/vpp-more) | High-performance OpenVPN data plane acceleration via VPP, 10x faster | C, VPP |
+| [StrongSwan-GM](https://github.com/Kotodian/strongswan-gm) | IPsec VPN with Chinese National Cryptography (SM2/SM3/SM4) | C, StrongSwan |
+| [MASQUE Protocol](https://github.com/Kotodian/masque-rs) | HTTP/3-based QUIC tunneling proxy implementation | Rust, QUIC |
+| [TORQUE](https://github.com/Kotodian/torque) | High-performance port-forward based on eBPF | Go, eBPF |
+
+---
+
+### Tech Stack
+
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=black)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VPP](https://img.shields.io/badge/VPP-0080FF?style=for-the-badge)
-![IPsec](https://img.shields.io/badge/IPsec-FF6B6B?style=for-the-badge)
-
----
+![eBPF](https://img.shields.io/badge/eBPF-FF6B6B?style=for-the-badge)
