@@ -19,7 +19,8 @@
       </p>
       <ul>
         <li>Rule-based routing, TUN mode, Fake-IP DNS</li>
-        <li>Process-based routing, TUN mode, Fake-IP DNS</li>
+        <li>Process-based routing</li>
+         <li>Gateway Mode</li>
         <li>Tailscale integration with MagicDNS</li>
         <li>Ruleset marketplace & subscription management</li>
         <li>Light / Dark theme, EN & ZH-CN</li>
