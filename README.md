@@ -12,7 +12,7 @@
   <tr>
     <td width="400">
       <h3><a href="https://github.com/Kotodian/calamity">Calamity</a></h3>
-      <p>A modern macOS proxy client powered by sing-box, built with Tauri 2 + React.</p>
+      <p>A modern macOS & Linux proxy client powered by sing-box, built with Tauri 2 + React.</p>
       <p>
         <img src="https://img.shields.io/github/v/release/Kotodian/calamity?include_prereleases&style=flat-square&color=e94560" alt="Release" />
         <img src="https://img.shields.io/github/downloads/Kotodian/calamity/total?style=flat-square&color=16213e" alt="Downloads" />
@@ -23,6 +23,7 @@
         <li>Gateway Mode — transparent LAN proxy</li>
         <li>BGP Rule Sync — sync rules between instances over Tailscale</li>
         <li>Tailscale integration with MagicDNS</li>
+        <li>Linux support — headless daemon + CLI, deb/rpm/pacman/tarball</li>
         <li>Ruleset marketplace & subscription management</li>
         <li>Light / Dark theme, EN & ZH-CN</li>
       </ul>
