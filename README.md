@@ -46,6 +46,7 @@
 | [StrongSwan-GM](https://github.com/Kotodian/strongswan-gm) | IPsec VPN with Chinese National Cryptography (SM2/SM3/SM4) | C, StrongSwan |
 | [MASQUE Protocol](https://github.com/Kotodian/masque-rs) | HTTP/3-based QUIC tunneling proxy implementation | Rust, QUIC |
 | [TORQUE](https://github.com/Kotodian/torque) | High-performance port-forward based on eBPF | Go, eBPF |
+| [Linux vmxnet3 AF_XDP ZC](https://github.com/Kotodian/linux/tree/vmxnet3-xsk-zc) | AF_XDP zero-copy RX/TX ported to VMware's paravirt NIC driver, bisect-safe 7-commit series | C, XDP, Kernel |
 
 ---
 
