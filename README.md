@@ -1,7 +1,11 @@
 <h1 align="center">Hi there, I'm Kotodian</h1>
 
 <p align="center">
-  <b>Network Security Engineer | VPN Protocol Developer | Desktop App Builder</b>
+  <b>Kernel & eBPF Networking | VPN Protocols | High-performance Proxy Systems</b>
+</p>
+
+<p align="center">
+  Building Linux datapaths, VPN/proxy protocols, and cross-platform networking products.
 </p>
 
 ---
@@ -38,6 +42,14 @@
 
 ---
 
+### Current Focus
+
+- Container networking datapaths: Docker netkit, eBPF port mapping, SNAT/MASQ, cgroup socket hooks, BIG TCP.
+- High-performance packet processing: VPP, XDP/AF_XDP zero-copy, Linux kernel driver work.
+- Proxy and VPN systems: QUIC/MASQUE, OpenVPN/IPsec acceleration, sing-box-based desktop clients.
+
+---
+
 ### Other Projects
 
 | Project | Description | Stack |
@@ -46,6 +58,7 @@
 | [StrongSwan-GM](https://github.com/Kotodian/strongswan-gm) | IPsec VPN with Chinese National Cryptography (SM2/SM3/SM4) | C, StrongSwan |
 | [MASQUE Protocol](https://github.com/Kotodian/masque-rs) | HTTP/3-based QUIC tunneling proxy implementation | Rust, QUIC |
 | [TORQUE](https://github.com/Kotodian/torque) | High-performance port-forward based on eBPF | Go, eBPF |
+| [Docker Netkit eBPF](https://github.com/Kotodian/moby) | Docker netkit datapath work: eBPF published-port mapping, egress MASQ, cgroup socket hooks, and BIG TCP validation | Go, C, eBPF |
 | [Linux vmxnet3 AF_XDP ZC](https://github.com/Kotodian/linux/tree/vmxnet3-xsk-zc) | AF_XDP zero-copy RX/TX ported to VMware's paravirt NIC driver, bisect-safe 7-commit series | C, XDP, Kernel |
 
 ---
@@ -60,3 +73,6 @@
 ![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=black)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![eBPF](https://img.shields.io/badge/eBPF-FF6B6B?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![XDP](https://img.shields.io/badge/XDP-1F6FEB?style=for-the-badge)
+![VPP](https://img.shields.io/badge/VPP-2E3440?style=for-the-badge)
