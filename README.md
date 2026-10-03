@@ -12,33 +12,20 @@
 
 ### Featured Project
 
-<table>
-  <tr>
-    <td width="400">
-      <h3><a href="https://github.com/Kotodian/calamity">Calamity</a></h3>
-      <p>A modern macOS & Linux proxy client powered by sing-box, built with Tauri 2 + React.</p>
-      <p>
-        <img src="https://img.shields.io/github/v/release/Kotodian/calamity?include_prereleases&style=flat-square&color=e94560" alt="Release" />
-        <img src="https://img.shields.io/github/downloads/Kotodian/calamity/total?style=flat-square&color=16213e" alt="Downloads" />
-      </p>
-      <ul>
-        <li>Rule-based routing, TUN mode, Fake-IP DNS</li>
-        <li>Process-based routing</li>
-        <li>Gateway Mode — transparent LAN proxy</li>
-        <li>BGP Rule Sync — sync rules between instances over Tailscale</li>
-        <li>Tailscale integration with MagicDNS</li>
-        <li>Linux support — headless daemon + CLI, deb/rpm/pacman/tarball</li>
-        <li>Ruleset marketplace & subscription management</li>
-        <li>Light / Dark theme, EN & ZH-CN</li>
-      </ul>
-    </td>
-    <td>
-      <a href="https://github.com/Kotodian/calamity">
-        <img src="https://raw.githubusercontent.com/Kotodian/calamity/main/docs/screenshots/dashboard-dark.png" alt="Calamity Dashboard" width="500" />
-      </a>
-    </td>
-  </tr>
-</table>
+#### [netsystem — Rewrite VPP into Rust](https://github.com/Kotodian/netsystem-rs)
+
+A standalone network data-plane framework rewriting FD.io Vector Packet
+Processing (VPP) in Rust, with VPP's packet graph and worker ownership model.
+Under active development.
+
+- Vector packet processing with batched Frames and compact Buffer Indices.
+- Worker-owned graph execution, explicit handoff, CPU/NUMA placement, and Buffer Pools.
+- Main-thread async Process Nodes, io_uring file scheduling, CLI, and Binary API.
+- Session RX/TX FIFOs and message queues, with independent TUN, IP, ICMP, TCP, and iperf3 plugins.
+- Shared-memory statistics, packet tracing, and architecture decisions grounded in VPP source.
+
+[Architecture and module overview](https://github.com/Kotodian/netsystem-rs#architecture) ·
+[Architecture decisions](https://github.com/Kotodian/netsystem-rs/tree/main/docs/adr)
 
 ---
 
@@ -54,6 +41,7 @@
 
 | Project | Description | Stack |
 |:--------|:-----------|:------|
+| [Calamity](https://github.com/Kotodian/calamity) | macOS & Linux proxy client powered by sing-box, with rule-based routing, TUN, and Tailscale integration | Rust, Tauri 2, React |
 | [VPP-OpenVPN](https://github.com/Kotodian/vpp-more) | High-performance OpenVPN data plane acceleration via VPP, 10x faster | C, VPP |
 | [StrongSwan-GM](https://github.com/Kotodian/strongswan-gm) | IPsec VPN with Chinese National Cryptography (SM2/SM3/SM4) | C, StrongSwan |
 | [Docker Netkit eBPF](https://github.com/Kotodian/moby) | Docker netkit datapath work: eBPF published-port mapping, egress MASQ, cgroup socket hooks, and BIG TCP validation | Go, C, eBPF |
